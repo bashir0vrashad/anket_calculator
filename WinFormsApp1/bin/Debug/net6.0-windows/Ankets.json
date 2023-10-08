@@ -1,0 +1,47 @@
+[
+  {
+    "Ad": "Rasad",
+    "Soyad": "Basirov",
+    "Olke": "Azerbaycan",
+    "Seher": "Baki",
+    "Telefon": "0559820172",
+    "Date": "2023-10-07",
+    "Cins": true
+  },
+  {
+    "Ad": "Mehemmed",
+    "Soyad": "Basirov",
+    "Olke": "Azerbaycan",
+    "Seher": "Seki",
+    "Telefon": "0774443322",
+    "Date": "2023-10-07",
+    "Cins": true
+  },
+  {
+    "Ad": "Tarana",
+    "Soyad": "Qaflanova",
+    "Olke": "Azerbaycan",
+    "Seher": "Baki",
+    "Telefon": "0503617876",
+    "Date": "2023-10-07",
+    "Cins": false
+  },
+  {
+    "Ad": "Rahile",
+    "Soyad": "Aslanova",
+    "Olke": "Azerbaycan",
+    "Seher": "Zaqatala",
+    "Telefon": "0501112233",
+    "Date": "2001-02-14",
+    "Cins": false
+  },
+  {
+    "Ad": "Nicat",
+    "Soyad": "Basirov",
+    "Olke": "Azerbaycan",
+    "Seher": "Baki",
+    "Telefon": "0999909090",
+    "Date": "2011-04-01",
+    "Cins": true
+  }
+]

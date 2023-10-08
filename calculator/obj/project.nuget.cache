@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DEdYbDEUVeY94xnfsVDm6GGwPutvzST2p/N52lPoFaDhddi21Xa023bo79/vRqOL04cmC3u4+1xhJaQ8zyxU0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NITRO\\source\\repos\\WinFormsApp1_ders2\\calculator\\calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
